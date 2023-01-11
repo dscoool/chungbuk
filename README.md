@@ -32,10 +32,12 @@
 
 해당 컴파일러를 본인 환경에서 사용하시면 되겠습니다.
 
+컴파일러 옵션 1 = 파이썬 + PyCharm
+* 아나콘다: https://www.anaconda.com/products/distribution
+
+컴파일러 옵션 2 = 파이썬 + Visual Studio Code + Jupyter
 * 파이썬 다운로드: https://www.python.org/downloads/
-
-* PyCharm 다운로드: https://www.jetbrains.com/ko-kr/pycharm/
-
+* Visual Studio Code: https://code.visualstudio.com/download
 * Python + Visual Studio Code + Jupyter 설치 동영상: https://tv.naver.com/v/31561658
 
 ### 2. 텐서플로우 예제 1
