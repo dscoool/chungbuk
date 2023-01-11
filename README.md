@@ -73,5 +73,7 @@ https://www.youtube.com/watch?v=573EZkzfnZ0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_M
 
 https://www.youtube.com/watch?v=f-EtWNybRoI&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=15
 
-
+* 타이타닉 실습 예제
+예제: https://github.com/dscoool/chungbuk/blob/main/titanic.ipynb
+설명서: https://developers.ascentnet.co.jp/2017/11/24/kaggle-process-review/
 
