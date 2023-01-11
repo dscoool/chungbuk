@@ -68,8 +68,8 @@
 
 https://www.youtube.com/watch?v=573EZkzfnZ0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28
 
-* 신경망의 기본 단위 = 뉴런
-인공신경망의 기본 단위 = MLP (댜층 퍼셉트론, Multi Layer Perceptron)
+* 신경망의 기본 단위 = 뉴런Neuron
+인공신경망의 기본 단위 = MLP (다층 퍼셉트론, Multi Layer Perceptron)
 
 https://www.youtube.com/watch?v=f-EtWNybRoI&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=15
 
