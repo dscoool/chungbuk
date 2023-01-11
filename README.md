@@ -18,7 +18,7 @@
 
 * [PPT] 인공지능 이미지 분류 강좌소개
 
-### 1. 파이썬 + VSCode + Jupyter 설치 
+### 1. 파이썬 환경설정 
 
 이 수업은 Google Colab으로 진행합니다.
 
@@ -28,7 +28,7 @@
 
 ------------------------------------------------------------------------
 
-혹시 본인의 PC에서 PyCharm이나 Visual Studio Code를 사용하고자 하시는 분은,
+* 혹시 본인의 PC에서 PyCharm이나 Visual Studio Code를 사용하고자 하시는 분은,
 
 해당 컴파일러를 본인 환경에서 사용하시면 되겠습니다.
 
@@ -36,7 +36,7 @@
 
 * PyCharm 다운로드: https://www.jetbrains.com/ko-kr/pycharm/
 
-* 설치 동영상: https://tv.naver.com/v/31561658
+* Python + Visual Studio Code + Jupyter 설치 동영상: https://tv.naver.com/v/31561658
 
 ### 2. 텐서플로우 예제 1
 
