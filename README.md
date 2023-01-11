@@ -24,11 +24,13 @@
 
 * 구글 Colab: http://colab.research.google.com (웹상에서 파이썬 실행)
 
-주피터 노트북(.ipynb) 파일을 연 후,
+주피터 노트북(.ipynb) 파일을 연 후, 'Open in Colab'버튼을 누르세요!!
+
+------------------------------------------------------------------------
 
 혹시 본인의 PC에서 PyCharm이나 Visual Studio Code를 사용하고자 하시는 분은,
 
-해당 컴파일러를 사용하시면 되겠습니다.
+해당 컴파일러를 본인 환경에서 사용하시면 되겠습니다.
 
 * 파이썬 다운로드: https://www.python.org/downloads/
 
