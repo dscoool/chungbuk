@@ -1,5 +1,6 @@
 # image classification
-2023.01.12 ~ 2023.01.18 충북대학교 인공지능 이미지 분류 특강
+
+(2023.01.12 ~ 2023.01.18) 충북대학교 인공지능 이미지 분류 특강
 
 안녕하세요 수강생 여러분? 강사 정재민입니다. 😊
 
@@ -10,6 +11,10 @@
 수업자료
 
 [1일차]
+
+0. 오리엔테이션 - 강좌 소개
+
+* [PPT] 인공지능 이미지 분류 강좌소개
 
 1. 파이썬 + VSCode + Jupyter 설치 
 
@@ -23,18 +28,19 @@
 
 2. 텐서플로우 예제 1
 
-예제: https://github.com/dscoool/chungbuk/blob/main/tensorflow_beginner.ipynb
-설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-for-beginner
+* 예제: https://github.com/dscoool/chungbuk/blob/main/tensorflow_beginner.ipynb
+* 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-for-beginner
 
 3. 텐서플로우(Tensorflow/Keras) 이미지 분류 예제
 
-예졔: https://github.com/dscoool/chungbuk/blob/e5a684d46645f0610f34518a1d4bb5d9d4659c93/tensorflow_keras_image_classification.ipynb
-설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
+* 예졔: https://github.com/dscoool/chungbuk/blob/e5a684d46645f0610f34518a1d4bb5d9d4659c93/tensorflow_keras_image_classification.ipynb
+* 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
 
 
 [2일차]
 
+1. 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
-image_preprocessing.ipynb
+* 예제: https://github.com/dscoool/chungbuk/blob/main/image_processing.ipynb
 
-https://drive.google.com/file/d/1OJxDUTMvZa-jpStMEr3VEL6_0oSSX-V4/view?usp=sharing
+- 커버내용: numpy소개 및 실습 / 데이터셋 구성 및 문제 정의 / numpy를 이용한 이미지 분류 개발 실습
