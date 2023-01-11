@@ -4,7 +4,9 @@
 
 안녕하세요 수강생 여러분? 강사 정재민입니다. 😊
 
-이 강의게시판은 충북대학교 이미지 이미지 분류 특강 (2023.01.12 ~ 2023.01.18) 강의자료 및 공지사항 게시판입니다.
+이 강의게시판은 충북대학교 이미지 이미지 분류 특강 (2023.01.12 ~ 2023.01.18) </br>
+
+강의자료 및 공지사항 게시판입니다.
 
 아래 강의게시판의 수업자료를 참조하여 주세요!!
 
@@ -18,13 +20,21 @@
 
 1. 파이썬 + VSCode + Jupyter 설치 
 
+이 수업은 기본적으로 Google Colab으로 진행합니다.
+
+* 구글 Colab: http://colab.research.google.com (웹상에서 파이썬 실행)
+
+주피터 노트북(.ipynb) 파일을 연 후,
+
+혹시 본인의 PC에서 PyCharm이나 Visual Studio Code를 사용하고자 하시는 분은,
+
+해당 컴파일러를 사용하시면 되겠습니다.
+
 * 파이썬 다운로드: https://www.python.org/downloads/
 
 * PyCharm 다운로드: https://www.jetbrains.com/ko-kr/pycharm/
 
-* 구글 Colab: http://colab.research.google.com (웹상에서 파이썬 실행)
-
-* 동영상: https://tv.naver.com/v/31561658실
+* 설치 동영상: https://tv.naver.com/v/31561658실
 
 2. 텐서플로우 예제 1
 
