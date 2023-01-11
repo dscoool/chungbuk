@@ -45,7 +45,7 @@
 
 3. 텐서플로우(Tensorflow/Keras) 이미지 분류 예제
 
-* 예졔: https://github.com/dscoool/chungbuk/blob/e5a684d46645f0610f34518a1d4bb5d9d4659c93/tensorflow_keras_image_classification.ipynb
+* 예제: https://github.com/dscoool/chungbuk/blob/e5a684d46645f0610f34518a1d4bb5d9d4659c93/tensorflow_keras_image_classification.ipynb
 * 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
 
 
