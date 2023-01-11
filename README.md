@@ -34,6 +34,8 @@
 
 컴파일러 옵션 1 = 파이썬 + PyCharm
 * 아나콘다: https://www.anaconda.com/products/distribution
+* 주피터(Jupyter) 에러시: https://link2me.tistory.com/2094
+$ pip install jupyter notebook
 
 컴파일러 옵션 2 = 파이썬 + Visual Studio Code + Jupyter
 * 파이썬 다운로드: https://www.python.org/downloads/
