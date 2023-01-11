@@ -10,7 +10,7 @@
 
 아래 강의게시판의 수업자료를 참조하여 주세요!!
 
-수업자료
+# 수업자료
 
 [1일차]
 
@@ -36,7 +36,7 @@
 
 * PyCharm 다운로드: https://www.jetbrains.com/ko-kr/pycharm/
 
-* 설치 동영상: https://tv.naver.com/v/31561658실
+* 설치 동영상: https://tv.naver.com/v/31561658
 
 2. 텐서플로우 예제 1
 
