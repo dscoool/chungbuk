@@ -60,4 +60,4 @@
 * 예제: https://github.com/dscoool/chungbuk/blob/main/text_classification.ipynb 
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
 
-- 커버내용: numpy소개 및 실습 / 데이터셋 구성 및 문제 정의 / numpy를 이용한 이미지 분류 개발 실습
+-- 커버내용: numpy소개 및 실습 / 데이터셋 구성 및 문제 정의 / numpy를 이용한 이미지 분류 개발 실습
