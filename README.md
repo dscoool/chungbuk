@@ -61,3 +61,17 @@
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
 
 -- 커버내용: numpy소개 및 실습 / 데이터셋 구성 및 문제 정의 / numpy를 이용한 이미지 분류 개발 실습
+
+### 3. 이론 - 유튜브 동영상 첨부
+
+* 머신러닝은 어떻게 스스로 학습하는가? (Back Propropagation)
+
+https://www.youtube.com/watch?v=573EZkzfnZ0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28
+
+* 신경망의 기본 단위 = 뉴런
+인공신경망의 기본 단위 = MLP (댜층 퍼셉트론, Multi Layer Perceptron)
+
+https://www.youtube.com/watch?v=f-EtWNybRoI&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=15
+
+
+
