@@ -12,7 +12,7 @@
 
 # 수업자료
 
-[1일차]
+## [1일차]
 
 0. 오리엔테이션 - 강좌 소개
 
@@ -49,7 +49,7 @@
 * 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
 
 
-[2일차]
+## [2일차]
 
 1. 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
