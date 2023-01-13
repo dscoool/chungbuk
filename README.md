@@ -55,11 +55,58 @@ $ pip install jupyter notebook
 
 ## [2일차]
 
-### 1. 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
+
+### 실습1
+
+1. 텐서플로우에 대한 설명 (7:17) 을 들은 후에 (한글 자막을 켜세요!!)
+https://youtu.be/KNAWp2S3w94
+
+2. 코드를 같이 입력해 봅시다!!
+https://developers.google.com/codelabs/tensorflow-1-helloworld#0
+
+3. 같이 코드를 실행해 봅시다!!
+https://github.com/dscoool/chungbuk/blob/main/Lab1-Hello-ML-World.ipynb
+
+4. 마지막 줄을 같이 살펴봅시다!!
+
+model.predict([10.0]) 을 실행했을 때, 얼마의 결과가 나오셨나요?
+
+y = 2x – 1 에서 x=10일 때, y를 추론하는 과정입니다. 😊
+
+5. 이렇게 하면 인간의 생각과 컴퓨터의 생각이 비슷하다고 할 수 있을까요?
+이제 가위바위보를 떠올리며, 의류 사진을 같은 로직으로 처리해 봅시다!! 😊
+
+
+![image](https://user-images.githubusercontent.com/85654856/212221036-c67216a8-3c3e-4746-acd1-5a501e1f592c.png)
+
+### 실습2
+
+이번에는 실습1에서 적용했던 기술을 디지털 이미지 파일에 적용해 봅시다!! 😊
+
+1. 텐서플로우에 대한 설명 (7:23) 을 들은 후에 (한글 자막을 켜세요!!)
+https://www.youtube.com/watch?v=bemDFpNooA8
+
+2. 코드를 같이 입력해 봅시다!!
+https://github.com/dscoool/chungbuk/blob/main/Lab2-Computer-Vision.ipynb
+
+3. 같이 코드를 실행해 봅시다!!
+https://github.com/dscoool/chungbuk/blob/main/Lab2-Computer-Vision.ipynb
+
+4. y=2x-1 을 예측하는 머신러닝 기술을, 이번에는 의류 분류에 사용했습니다.
+이를 ‘이미지 분류 기술(classification)이라고 합니다!!
+
+5. 이로서 사람이 의류를 보고 한 눈에 분류 가능하듯이, 컴퓨터로도 이미지를 인식하고 분류할 수 있게 되었습니다!!
+
+
+![image](https://user-images.githubusercontent.com/85654856/212221121-040b3aae-d082-413e-841d-e31fe248c259.png)
+
+
+
+### 3. 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/image_processing.ipynb
 
-### 2. 텍스트 분류
+### 4. 텍스트 분류
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/text_classification.ipynb 
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
