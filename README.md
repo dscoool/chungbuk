@@ -53,7 +53,21 @@ $ pip install jupyter notebook
 * 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
 
 
-## [2일차]
+## [2일차] 안녕하세요 수강생 여러분? 어제는 오리엔테이션을 진행했구요,
+
+오늘은 이제 본격적으로 실습에 들어가보도록 하겠습니다!! 파이썬 랩(lab)이라고 생각하시면 좋을 듯해요!!
+
+우선 머신러닝이 뭔지 감을 익히기 위해, tensorflow에 대해 설명을 들은 뒤 (^^),
+
+코드를 강사와 함께 한 줄씩 입력하도록 하겠습니다!!
+
+실습1과 실습2를 진행할 거구요,
+
+모델을 만든 후 model.predict([10.0]) 명령어를 사용해서
+
+머신러닝을 실제로 사용해 보도록 할게요!!
+
+그럼 시작해 볼까요? 😊
 
 
 ### 실습1
