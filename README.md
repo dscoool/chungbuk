@@ -55,6 +55,8 @@ $ pip install jupyter notebook
 
 ## [2일차] 
 
+[PPT] https://github.com/dscoool/chungbuk/blob/e7950f6d708b7fda1679ceec5928446326f868f5/%5Bday2%5D%20%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%ED%8A%B9%EA%B0%95.pdf
+
 안녕하세요 수강생 여러분? 어제는 오리엔테이션을 진행했구요,
 
 오늘은 이제 본격적으로 실습에 들어가보도록 하겠습니다!! 파이썬 랩(lab)이라고 생각하시면 좋을 듯해요!!
