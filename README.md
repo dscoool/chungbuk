@@ -53,7 +53,9 @@ $ pip install jupyter notebook
 * 설명서: https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-image-classification
 
 
-## [2일차] 안녕하세요 수강생 여러분? 어제는 오리엔테이션을 진행했구요,
+## [2일차] 
+
+안녕하세요 수강생 여러분? 어제는 오리엔테이션을 진행했구요,
 
 오늘은 이제 본격적으로 실습에 들어가보도록 하겠습니다!! 파이썬 랩(lab)이라고 생각하시면 좋을 듯해요!!
 
