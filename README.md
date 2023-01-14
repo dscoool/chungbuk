@@ -144,6 +144,31 @@ https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 * 데이터셋 -  https://laurencemoroney.com/datasets.html
 
 
+
+## [과제1] 텐서플로우를 이용하여 이미지 분류 해보기
+
+아래는 학습한 내용을 토대로 하여, 수강생 여러분들 스스로 간단한
+
+인공지능 이미지 분류를 해 보기 위한 과제입니다. 해당 코드를 블로그에 나온
+
+안내에 따라 작성, 실행해 보고, 정리하여 강사에게 이메일로 제출해 주세요!!
+
+수요일 수업에서 코드 리뷰를 진행할 예정입니다.
+
+과제는 A, B 중 하나를 선택하여 진행하시면 됩니다. 
+
+A. 말과 사람 이미지 분류하기
+https://codetorial.net/tensorflow/classifying_the_horse_and_human.html
+
+B. 고양이와 개 이미지 분류하기
+https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
+
+
+** 해당 과제는 필수가 아니며, 과제를 완료한 후 수요일에 코드 리뷰(code review)를 진행할 예정입니다!!
+
+-- 제출: 2023/01/18 수업 전까지. jaeminjjeong@kookmin.ac.kr
+
+
 ### 실습5 - 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/image_processing.ipynb
