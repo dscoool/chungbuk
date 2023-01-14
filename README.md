@@ -158,11 +158,12 @@ https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 과제는 A, B 중 하나를 선택하여 진행하시면 됩니다. 
 
 A. 말과 사람 이미지 분류하기
-https://codetorial.net/tensorflow/classifying_the_horse_and_human.html
+문서 - https://codetorial.net/tensorflow/classifying_the_horse_and_human.html
+dataset - https://laurencemoroney.com/datasets.html
 
 B. 고양이와 개 이미지 분류하기
-https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
-
+문서 - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
+dataset - https://www.kaggle.com/c/dogs-vs-cats
 
 ** 해당 과제는 필수가 아니며, 과제를 완료한 후 수요일에 코드 리뷰(code review)를 진행할 예정입니다!!
 
