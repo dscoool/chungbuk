@@ -115,21 +115,51 @@ https://github.com/dscoool/chungbuk/blob/main/Lab2-Computer-Vision.ipynb
 
 5. 이로서 사람이 의류를 보고 한 눈에 분류 가능하듯이, 컴퓨터로도 이미지를 인식하고 분류할 수 있게 되었습니다!!
 
+## [3일차] 
+
+[PPT]
+
+### 실습3 - 컨볼루션 뉴럴 네트워크 (CNN)
+
+1. 텐서플로우에 대한 설명 (5:32) 을 들은 후에 (한글 자막을 켜세요!!)
+https://youtu.be/x_VrgWTKkiM
+
+2. 코드를 같이 입력해 봅시다!!
+https://developers.google.com/codelabs/tensorflow-3-convolutions#0
+
+3. 같이 코드를 실행해 봅시다!!
+https://github.com/dscoool/chungbuk/blob/main/Lab3-What-Are-Convolutions.ipynb
+
+### 실습4 - 가위바위보 이미지 인식/분류하기!!
+
+1. 텐서플로우에 대한 설명 (5:26) 을 들은 후에 (한글 자막을 켜세요!!)
+https://www.youtube.com/watch?v=u2TjZzNuly8&t=5s
+
+2. 가위바위보 게임 설명서
+https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
+
+3. 데이터셋을 다운받고 코드를 입력해 실행해 봅시다!!
+* 코드(.ipynb) - https://github.com/dscoool/chungbuk/blob/main/Lab4%20-%20RockPaperScissors.ipynb
+
+* 데이터셋 -  https://laurencemoroney.com/datasets.html
 
 
-
-### 3. 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
+### 실습5 - 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/image_processing.ipynb
 
-### 4. 텍스트 분류
+
+
+### 실습6 - 텍스트 분류
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/text_classification.ipynb 
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
 
--- 커버내용: numpy소개 및 실습 / 데이터셋 구성 및 문제 정의 / numpy를 이용한 이미지 분류 개발 실습
 
-### 3. 이론 - 유튜브 동영상 첨부
+
+
+
+## [참고자료] 이론 - 유튜브 동영상 첨부
 
 * 머신러닝은 어떻게 스스로 학습하는가? (Back Propropagation)
 
@@ -139,8 +169,4 @@ https://www.youtube.com/watch?v=573EZkzfnZ0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_M
 인공신경망의 기본 단위 = MLP (다층 퍼셉트론, Multi Layer Perceptron)
 
 https://www.youtube.com/watch?v=f-EtWNybRoI&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=15
-
-* 타이타닉 실습 예제
-예제: https://github.com/dscoool/chungbuk/blob/main/titanic.ipynb
-설명서: https://developers.ascentnet.co.jp/2017/11/24/kaggle-process-review/
 
