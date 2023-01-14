@@ -183,8 +183,9 @@ dataset - https://www.kaggle.com/c/dogs-vs-cats
 
 * 예제: https://github.com/dscoool/chungbuk/blob/main/text_classification.ipynb 
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
+</br>
 
-##[5일차]
+## [5일차]
 
 ### 코드 리뷰
 
