@@ -189,6 +189,9 @@ dataset - https://www.kaggle.com/c/dogs-vs-cats
 ### 코드 리뷰
 
 
+## [전자신문 인터넷 컨퍼런스 안내] 2023년 2월 24일(금) 10:00~17:20
+
+https://conference.etnews.com/conf_info.html?uid=237
 
 ## [참고자료] 이론 - 유튜브 동영상 첨부
 
