@@ -125,9 +125,11 @@ https://github.com/dscoool/chungbuk/blob/main/Lab2-Computer-Vision.ipynb
 https://youtu.be/x_VrgWTKkiM
 
 2. 코드를 같이 입력해 봅시다!!
+
 https://developers.google.com/codelabs/tensorflow-3-convolutions#0
 
 3. 같이 코드를 실행해 봅시다!!
+
 https://github.com/dscoool/chungbuk/blob/main/Lab3-What-Are-Convolutions.ipynb
 
 ### 실습4 - 가위바위보 이미지 인식/분류하기!!
@@ -142,7 +144,6 @@ https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 * 코드(.ipynb) - https://github.com/dscoool/chungbuk/blob/main/Lab4%20-%20RockPaperScissors.ipynb
 
 * 데이터셋 -  https://laurencemoroney.com/datasets.html
-
 
 
 ## [과제1] 텐서플로우를 이용하여 이미지 분류 해보기
@@ -165,10 +166,12 @@ B. 고양이와 개 이미지 분류하기
 문서 - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
 dataset - https://www.kaggle.com/c/dogs-vs-cats
 
-** 해당 과제는 필수가 아니며, 과제를 완료한 후 수요일에 코드 리뷰(code review)를 진행할 예정입니다!!
+** 해당 과제는 필수가 아니며, 과제를 완료한 후 
+수요일에 코드 리뷰(code review)를 진행할 예정입니다!!
 
 -- 제출: 2023/01/18 수업 전까지. jaeminjjeong@kookmin.ac.kr
 
+## [4일차]
 
 ### 실습5 - 이미지 처리 기초 - Pillow, Scikit-Image, OpenCV
 
@@ -181,7 +184,9 @@ dataset - https://www.kaggle.com/c/dogs-vs-cats
 * 예제: https://github.com/dscoool/chungbuk/blob/main/text_classification.ipynb 
 * 설명서:https://guide.ncloud-docs.com/beta/docs/tensorflow-keras-text-classification
 
+##[5일차]
 
+### 코드 리뷰
 
 
 
