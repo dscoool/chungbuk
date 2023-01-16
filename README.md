@@ -135,9 +135,9 @@ https://github.com/dscoool/chungbuk/blob/main/Lab3-What-Are-Convolutions.ipynb
 ### 실습4 - 가위바위보 이미지 인식/분류하기!!
 
 1. 텐서플로우에 대한 설명 (5:26) 을 들은 후에 (한글 자막을 켜세요!!)
-https://www.youtube.com/watch?v=u2TjZzNuly8&t=5s
+https://youtu.be/u2TjZzNuly8
 
-2. 가위바위보 게임 설명서
+2. 가위바위보 게임 설명서를 봅시다 :)
 https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 
 3. 데이터셋을 다운받고 코드를 입력해 실행해 봅시다!!
