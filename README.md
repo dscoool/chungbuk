@@ -153,28 +153,40 @@ Test set - https://storage.googleapis.com/download.tensorflow.org/data/rps-test-
 
 ## [과제1] 텐서플로우를 이용하여 이미지 분류 해보기
 
-아래는 학습한 내용을 토대로 하여, 수강생 여러분들 스스로 간단한
+[PDF] https://github.com/dscoool/chungbuk/blob/main/assignment.pdf
 
-인공지능 이미지 분류를 해 보기 위한 과제입니다. 해당 코드를 블로그에 나온
+이 강의는 머신러닝(tensorflow)를 강사와 함께 따라 실습해 보고 감을 익히는 수업입니다. 아래 초급/중급/고급 중 한 가지를 골라서 코드를 입력해 타이핑해 보고, 
+결과를 아래 구글드라이브로 제출해 주세요!!
+개인 과제이지만 조별로도 가능하며(2~3인), 조별 과제일 경우 각자 공헌률을 써서 제출해 주시기 바랍니다. 예를 들어 A와 B가 조별 과제를 했을 경우, A B 모두 과제에 대한 참여율 (50:50, 100:0, 10:90)을 작성하여 제출하셔야 합니다. (과제 미제출시 불이익은 없습니다.)
 
-안내에 따라 작성, 실행해 보고, 정리하여 강사에게 이메일로 제출해 주세요!!
+1. [초급] 아래 가이드 비디오를 보고 그대로 따라해 봅시다 
+https://www.youtube.com/watch?v=9xZa4FAfKgY
 
-수요일 수업에서 코드 리뷰를 진행할 예정입니다.
+2. [중급] CNN사전학습 이미지 분류를 보고, 코드를 작성해 봅시다. 
 
-과제는 A, B 중 하나를 선택하여 진행하시면 됩니다. 
+https://yeong-jin-data-blog.tistory.com/entry/%EC%82%AC%EC%A0%84%ED%95%99%EC%8A%B5-%EB%AA%A8%EB%8D%B8-%EC%82%AC%EC%9A%A9
 
-A. 말과 사람 이미지 분류하기
-문서 - https://codetorial.net/tensorflow/classifying_the_horse_and_human.html
-dataset - https://laurencemoroney.com/datasets.html
+3. [고급] 이미지 분류를 한번 이상 실행해 본 경우, 아래 코드를 설명에 따라 입력하여 실행해 봅시다!!
 
-B. 고양이와 개 이미지 분류하기
-문서 - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html
-dataset - https://www.kaggle.com/c/dogs-vs-cats
+A. 말과 사람 이미지 분류하기 
 
-** 해당 과제는 필수가 아니며, 과제를 완료한 후 
-수요일에 코드 리뷰(code review)를 진행할 예정입니다!!
+* 문서 - https://codetorial.net/tensorflow/classifying_the_horse_and_human.html 
 
--- 제출: 2023/01/18 수업 전까지. jaeminjjeong@kookmin.ac.kr
+* dataset - https://laurencemoroney.com/datasets.html
+
+B. 고양이와 개 이미지 분류하기 
+
+* 문서 - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html 
+
+* dataset - https://www.kaggle.com/c/dogs-vs-cats
+
+* 제출마감: 수요일 수업 전까지
+* 제출처: 구글드라이브
+https://drive.google.com/drive/folders/1lVX2EbBeJXueWyiPZ-ZWbFoUamu5Ij7L
+
+
+** 과제 미제출 불이익은 없으며, 제출시 이익은 있습니다 :)
+* 마감: 2023/01/18 수업 전까지. 
 
 ## [4일차]
 
