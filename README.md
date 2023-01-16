@@ -143,7 +143,10 @@ https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 3. 데이터셋을 다운받고 코드를 입력해 실행해 봅시다!!
 * 코드(.ipynb) - https://github.com/dscoool/chungbuk/blob/main/Lab4%20-%20RockPaperScissors.ipynb
 
-* 데이터셋 -  https://laurencemoroney.com/datasets.html
+* 데이터셋
+
+Train set - https://storage.googleapis.com/download.tensorflow.org/data/rps.zip
+Test set - https://storage.googleapis.com/download.tensorflow.org/data/rps-test-set.zip
 
 
 ## [과제1] 텐서플로우를 이용하여 이미지 분류 해보기
