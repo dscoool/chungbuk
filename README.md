@@ -118,6 +118,7 @@ https://github.com/dscoool/chungbuk/blob/main/Lab2-Computer-Vision.ipynb
 ## [3일차] 
 
 [PPT]
+https://github.com/dscoool/chungbuk/blob/main/%5Bday3%5D%20%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%ED%8A%B9%EA%B0%95.pdf
 
 ### 실습3 - 컨볼루션 뉴럴 네트워크 (CNN)
 
@@ -145,7 +146,8 @@ https://www.tensorflow.org/datasets/catalog/rock_paper_scissors
 
 * 데이터셋
 
-Train set - https://storage.googleapis.com/download.tensorflow.org/data/rps.zip
+Train set - https://storage.googleapis.com/download.tensorflow.org/data/rps.zip 
+</br>
 Test set - https://storage.googleapis.com/download.tensorflow.org/data/rps-test-set.zip
 
 
