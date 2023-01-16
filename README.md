@@ -170,13 +170,13 @@ https://yeong-jin-data-blog.tistory.com/entry/%EC%82%AC%EC%A0%84%ED%95%99%EC%8A%
 
 A. 말과 사람 이미지 분류하기 
 
-* 문서 - https://codetorial.net/tensorflow/classifying_the_horse_and_human.html 
+* 문서 -  https://codetorial.net/tensorflow/classifying_the_horse_and_human.html
 
 * dataset - https://laurencemoroney.com/datasets.html
 
 B. 고양이와 개 이미지 분류하기 
 
-* 문서 - https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html 
+* 문서 -  https://codetorial.net/tensorflow/classifying_the_cats_and_dogs.html 
 
 * dataset - https://www.kaggle.com/c/dogs-vs-cats
 
