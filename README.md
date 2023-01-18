@@ -204,8 +204,9 @@ https://drive.google.com/drive/folders/1lVX2EbBeJXueWyiPZ-ZWbFoUamu5Ij7L
 
 ## [5일차]
 
-### 코드 리뷰
+[PPT] https://github.com/dscoool/chungbuk/blob/3551c952e5a604a3dd90ffb4b0663e4723af4ded/%5B5%EC%9D%BC%EC%B0%A8%5D%20%EC%B6%A9%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%ED%8A%B9%EA%B0%95.pdf 
 
+### 상호 코드 리뷰
 
 ## [전자신문 인터넷 컨퍼런스 안내] 2023년 2월 24일(금) 10:00~17:20
 
